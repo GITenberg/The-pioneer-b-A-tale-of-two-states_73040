@@ -1,0 +1,44 @@
+_repo: The-pioneer-b-A-tale-of-two-states_73040
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Fisher, Harrison
+    birthdate: 1875
+    deathdate: 1934
+    gutenberg_agent_id: '25149'
+    url: http://www.gutenberg.org/2009/agents/25149
+    wikipedia: https://en.wikipedia.org/wiki/Harrison_Fisher
+creator:
+  author:
+    agent_name: Bonner, Geraldine
+    birthdate: 1870
+    deathdate: 1930
+    gutenberg_agent_id: '3132'
+    url: http://www.gutenberg.org/2009/agents/3132
+    wikipedia: https://en.wikipedia.org/wiki/Geraldine_Bonner
+description: ''
+gutenberg_issued: '2024-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73040'
+  lccn: 05007898
+language: en
+pgterms:marc904: https://archive.org/details/134220299/mode/2up
+pgterms:marc905: 20200505174706bonner
+pgterms:marc906: '1905'
+pgterms:marc907: US
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aIndianapolis :$bThe Bobbs-Merrill Company, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'California -- Fiction'
+- !lcsh 'Nevada -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'The pioneer : $b A tale of two states'
+url: http://www.gutenberg.org/ebooks/73040
