@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '25149'
     url: http://www.gutenberg.org/2009/agents/25149
     wikipedia: https://en.wikipedia.org/wiki/Harrison_Fisher
+covers:
+- cover_type: archival
+  image_path: 73040-h/images/cover.jpg
 creator:
   author:
     agent_name: Bonner, Geraldine
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3132
     wikipedia: https://en.wikipedia.org/wiki/Geraldine_Bonner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73040#The-pioneer-b-A-tale-of-two-states
 gutenberg_issued: '2024-02-26'
 gutenberg_type: Text
 identifiers:
